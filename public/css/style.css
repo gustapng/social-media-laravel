@@ -1,0 +1,11 @@
+h1 {
+    font-weight: 600;
+}
+
+.login-form {
+    padding: 1rem 6rem;
+}
+
+.btn-primary {
+    padding: 0.7rem 0;
+}
